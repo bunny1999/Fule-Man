@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359062981674",
+    "firebase_url": "https://petroldelivery.firebaseio.com",
+    "project_id": "petroldelivery",
+    "storage_bucket": "petroldelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359062981674:android:5751c7a256031ad118c753",
+        "android_client_info": {
+          "package_name": "in.irotech.petroldelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359062981674-qas711kh2hbbl1vv4c1ufpjfvdfvknpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.irotech.petroldelivery",
+            "certificate_hash": "1efbbc24713eb897efa1f10617fa94c68a05019c"
+          }
+        },
+        {
+          "client_id": "359062981674-1oapsj78mn1q740vuegjnbrv4bbuq5pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ujKRFLIphHAFKzddHxs5SrNuBy-GvWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359062981674-1oapsj78mn1q740vuegjnbrv4bbuq5pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

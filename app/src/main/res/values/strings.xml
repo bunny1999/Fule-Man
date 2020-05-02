@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fuel Man</string>
+    <string name="title_activity_map_search">Map</string>
+    <string name="title_activity_tracking_order_map">Map</string>
+</resources>
